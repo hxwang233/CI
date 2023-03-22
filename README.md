@@ -1,2 +1,2 @@
 # CI
-实现了常见的计算智能算法，包括模拟退火、遗传、蚁群、粒子群、模糊逻辑等
+This project contains common computational intelligence algorithms, including simulated annealing, genetic algorithms, ant colony optimization, particle swarm optimization, fuzzy logic and etc.
